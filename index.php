@@ -46,8 +46,8 @@
                                                 <form action="" class="needs-validation" novalidate="">
                                                     <div class="form-group">
                                                         <label for="number">Phone</label>
-                                                        <input id="number" type="tel" class="form-control"
-                                                            name="phone" tabindex="1" required="" autofocus="">
+                                                        <input id="number" type="tel" class="form-control" name="phone"
+                                                            tabindex="1" required="" autofocus="">
                                                         <div class="invalid-feedback">
                                                             Please fill in your number
                                                         </div>
@@ -76,7 +76,7 @@
                                                         <input type="submit" name="s1"
                                                             class="btn btn-primary btn-lg btn-block" tabindex="4"
                                                             value="Login">
-                                                           
+
                                                     </div>
                                                 </form>
                                                 <?php
